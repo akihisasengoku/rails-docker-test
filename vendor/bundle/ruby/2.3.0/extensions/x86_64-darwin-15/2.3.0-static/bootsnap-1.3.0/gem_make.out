@@ -1,0 +1,15 @@
+current directory: /Users/akihisa/rails/test180422/vendor/bundle/ruby/2.3.0/gems/bootsnap-1.3.0/ext/bootsnap
+/Users/akihisa/.rbenv/versions/2.3.1/bin/ruby -r ./siteconf20180422-3033-vorqln.rb extconf.rb
+creating Makefile
+
+current directory: /Users/akihisa/rails/test180422/vendor/bundle/ruby/2.3.0/gems/bootsnap-1.3.0/ext/bootsnap
+make "DESTDIR=" clean
+
+current directory: /Users/akihisa/rails/test180422/vendor/bundle/ruby/2.3.0/gems/bootsnap-1.3.0/ext/bootsnap
+make "DESTDIR="
+compiling bootsnap.c
+linking shared-object bootsnap/bootsnap.bundle
+
+current directory: /Users/akihisa/rails/test180422/vendor/bundle/ruby/2.3.0/gems/bootsnap-1.3.0/ext/bootsnap
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 bootsnap.bundle ./.gem.20180422-3033-jfbn1k/bootsnap
